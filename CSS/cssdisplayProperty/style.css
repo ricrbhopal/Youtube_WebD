@@ -1,0 +1,29 @@
+#div1 {
+  border: 1px solid #000;
+  width: 500px;
+  height: 300px;
+  display: inline-block;
+}
+
+#div2 {
+ 
+  border: 1px solid #000;
+  width: 500px;
+  height: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 2px 2px 1px 1px black;
+}
+
+#span1 {
+  border: 1px solid #000;
+  width: 500px;
+  height: 300px;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 75px;
+    text-shadow: 2px 2px 2px red;
+}

@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  background-color: bisque;
+}
+
+.heading {
+  background-color: aqua;
+}
+
+#position {
+  color: blueviolet;
+}
+
+table {
+  border: 2px solid #000;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #000;
+}
+
+
+th{
+    color: blueviolet;
+}
+
+.c_name{
+    color: red;
+    font-family: "Lobster Two", sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    font-style: italic;
+    font-variant: small-caps;
+    border-bottom: 1px solid black;
+    width: fit-content;
+}

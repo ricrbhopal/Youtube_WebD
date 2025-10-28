@@ -1,0 +1,9 @@
+#div1{
+    border: 5px solid #000;
+    width: 500px;
+    height: 500px;
+    font-size: 100px;
+    background-color: aqua;
+    padding: 20px 50px 100px 200px;
+    margin: 20px 50px 100px 200px;
+}
